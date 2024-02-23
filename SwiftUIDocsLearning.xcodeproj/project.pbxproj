@@ -88,11 +88,11 @@
 				2E09A9E02B8326EA00CB1ACB /* ContentView.swift */,
 				2E09A9EC2B832BE500CB1ACB /* MapView.swift */,
 				2E09A9EE2B832E4B00CB1ACB /* CircleImage.swift */,
+				2E996DE22B85C8A000EF1A08 /* ModelData.swift */,
 				2E09A9E22B8326EC00CB1ACB /* Assets.xcassets */,
 				2E996DC92B85C0E000EF1A08 /* landmarkData.json */,
 				2E996DCA2B85C0E000EF1A08 /* Images */,
 				2E09A9E42B8326EC00CB1ACB /* Preview Content */,
-				2E996DE22B85C8A000EF1A08 /* ModelData.swift */,
 			);
 			path = SwiftUIDocsLearning;
 			sourceTree = "<group>";
